@@ -1,0 +1,33 @@
+# --- Logs and Databases ---
+*.log
+*.sql
+*.sqlite
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# --- Environments and Credentials ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# --- Dependencies and Build Artifacts ---
+# Node.js
+node_modules/
+dist/
+.npm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Java/Maven/Gradle
+target/
+.gradle/
+build/
