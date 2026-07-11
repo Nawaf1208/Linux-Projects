@@ -3,6 +3,8 @@
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![](Project-4.png)
+
 A lightweight Linux automation utility that simplifies log lifecycle management using Bash. The script automatically compresses old log files, removes outdated compressed archives based on configurable retention periods, records every operation in a log file, and provides a clean terminal dashboard.
 
 ## Automation Features
