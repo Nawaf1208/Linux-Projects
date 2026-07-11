@@ -3,6 +3,8 @@
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![](Project-3.png)
+
 A lightweight Linux administration utility that automates user account provisioning using Bash. The script creates new user accounts with a home directory, assigns a default shell and group, securely sets passwords, records provisioning activity in a log file, and provides a clean terminal dashboard.
 
 ## Provisioning Features
