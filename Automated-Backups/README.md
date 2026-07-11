@@ -3,6 +3,8 @@
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![](Project-2.png)
+
 A lightweight DevOps automation utility that creates compressed backups of Linux directories using Bash. The script generates timestamped backup archives, maintains detailed backup logs, automatically removes outdated backups based on a configurable retention period, and provides a clean terminal dashboard.
 
 ## Backup Features
