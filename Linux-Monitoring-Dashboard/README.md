@@ -3,6 +3,8 @@
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![](Project-1.png)
+
 A lightweight DevOps monitoring utility built with Bash to provide real-time visibility into Linux system health. The script monitors CPU, memory, and disk usage, displays a terminal dashboard, logs system statistics, and sends email alerts whenever configurable resource thresholds are exceeded.
 
 ## Features
