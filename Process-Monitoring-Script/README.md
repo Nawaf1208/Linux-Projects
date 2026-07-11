@@ -3,6 +3,8 @@
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![](Project-5.png)
+
 A lightweight Linux monitoring utility that identifies processes exceeding configured CPU and memory usage thresholds. The script logs high resource consumption with timestamps and provides a clean terminal dashboard for quick monitoring.
 
 ## Monitoring Features
