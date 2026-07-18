@@ -74,7 +74,7 @@ Time : $(date) " | mail -s "Resource Alert - $HOSTNAME" "$EMAIL"
 # System Information
 CPU_USAGE=$(get_cpu)
 RAM_USAGE=$(get_ram)
-DISK_USAGE=$(get_cpu)
+DISK_USAGE=$(get_disk)
 
 UPTIME=$(uptime -p)
 LOAD=$(uptime | awk -F'load average:' '{print $2}')
